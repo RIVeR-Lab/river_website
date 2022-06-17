@@ -17,41 +17,16 @@ organizations:
 bio:
 
 interests:
-  - Mechanical Engineering
   - Design
   - Leadership
-  - Mars Rover
+  - Mars Rover  
+  - Mechanical engineering
 
 education:
   courses:
-    - course: B.S. Mechanical Engineering (2023)
+    - course: B.S. - Mechanical Engineering
       institution: Northeastern University
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-#social:
-#  - icon: envelope
-#    icon_pack: fas
-#    link: 'mailto:test@example.org'
-#  - icon: twitter
-#    icon_pack: fab
-#    link: https://twitter.com/GeorgeCushen
-#  - icon: google-scholar
-#    icon_pack: ai
-#    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#  - icon: github
-#    icon_pack: fab
-#    link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: ''
+      year: 2023
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -62,6 +37,8 @@ user_groups:
   - Undergraduates
 ---
 
-Drake Moore is an undergraduate computer science major who is also working towards a minor in mathematics. He is expected to graduate in winter of 2022.
+## Biography
 
-A fun fact about Drake is that he has been to every continent except Antarctica. He will hopefully make the journey next year.
+Ethan Holand is an undergraduate researcher who served as a Design Lead on PARIS 2.0 for the E-ROBOT competition sponsored by the Department of Energy. Outside of the lab, Ethan serves as President for NURobotics, Vice President for the Northeastern chapter of American Society of Mechanical Engineers (ASME), and as Mechanical Lead for the Northeastern Mars Rover Team.
+
+Fun fact: Ethan was voted "Most Athletic" in high school despite having no athletic capabilities. His sport of choice -- robotics!

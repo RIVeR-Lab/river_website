@@ -18,7 +18,7 @@ content:
   user_groups:
     - Postdocs
     - PhD Students
-    - Master's Students
+    - M.S. Students
     - Undergraduates
 design:
   show_interests: false
