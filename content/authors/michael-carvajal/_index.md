@@ -10,55 +10,30 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role:
+role: M.S. Student
 
 # Organizations/Affiliations
 organizations:
-- name: 
+- name: Northeastern University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:
 
 # List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- Controlled motion
+- Human-centered interaction
+- Mechanisms
 
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/USERNAME
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
-- icon: github
-  icon_pack: fab
-  link: https://github.com/USERNAME
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+  - course: M.S. - Robotics
+    institution: Northeastern University
+    year: 2023
+  - course: B.S. - Mechanical Engineering
+    institution: Massachusetts Institute of Technology (MIT)
+    year: 2009
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -66,6 +41,12 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Group 1
-- Group 2
+- M.S. Students
+
 ---
+
+## Biography
+
+As a Graduate Research Assistant, Carv has been leaning on his past experiences of working in the Product Development industry to help streamline the robust design and physical prototyping of robotic solutions for various lab projects. Most notably, he recently led the development of the customized foam spray gun end-effector for the P.A.R.I.S. air-sealing robot the lab submitted to the recent E-ROBOT competition; the spray gun featured a motor-controlled trigger and was equipped with a thermal camera and a stereo vision camera that were both housed in a human-friendly enclosure of his own design. He looks forward to working with Prof. Padir to formulate ideas for a thesis project that can combine his interests in controlled motion, mechanisms, and human-centered interaction.
+
+Fun fact: Both of his grandfathers were active in the music scene of their respective home countries. His paternal grandfather played guitar and sang in a music group in Ecuador; his maternal grandfather moonlit as a saxophone player in an orchestral nightclub band in Costa Rica. Carv aspires to be as cool as they were.

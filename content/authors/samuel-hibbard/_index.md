@@ -10,55 +10,26 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role:
+role: Undergraduate
 
 # Organizations/Affiliations
 organizations:
-- name: 
+- name: Northeastern University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:
 
 # List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- Compliant mechanisms applications
+- Mechatronics
 
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/USERNAME
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
-- icon: github
-  icon_pack: fab
-  link: https://github.com/USERNAME
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+  - course: B.S. - Mechanical Engineering
+    institution: Northeastern University
+    year: 2024
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -66,6 +37,11 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Group 1
-- Group 2
+- Undergraduates
 ---
+
+## Biography
+
+Samuel Hibbard is an undergraduate researcher studying mechanical engineering. His primary research focus is in compliant mechanisms applications for robotics. He is currently working on a robotic system to assist skilled workers handling and cutting large fish. He designed the mechatronics for thee PARIS climate retrofitting robot in the DOE E-ROBOT competition. He led Northeastern University's team competing in the NASA Mars Ice Challenge.
+
+Fun fact: Samuel designed the RIVeR Lab logo!

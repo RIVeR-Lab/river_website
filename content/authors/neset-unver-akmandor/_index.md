@@ -10,55 +10,33 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role:
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: 
+- name: Northeastern University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:
 
 # List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- Deep reinforcement learning
+- Dynamic environments
+- Motion planning
+- Motion primitives
+- Optimization
+- Reactive navigation
 
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/USERNAME
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
-- icon: github
-  icon_pack: fab
-  link: https://github.com/USERNAME
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+  - course: PhD - Computer Engineering
+    institution: Northeastern University
+  - course: M.S. - Electrical and Electronics Engineering (Robotics)
+    institution: Middle East Technical University, Ankara, Turkey
+  - course: B.S. - Electrical and Electronics Engineering
+    institution: Bilkent University, Ankara, Turkey
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -66,6 +44,10 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Group 1
-- Group 2
+- PhD Students
+
 ---
+
+Neset Unver Akmandor is a fourth-year PhD student in computer engineering. His research is focused on improving the computational efficiency and robustness of motion generation/planning algorithms for mobile robots to enable complex tasks in dynamic environments. To achieve such objectives, he has been developing algorithms that bridge classical methods (sampling/optimization based) and deep reinforcement learning. The proceedings of his work include applications with unmanned aerial vehicle systems and mobile manipulator platforms.
+
+Fun fact: Unver won the second place in Turkish National Chess Championship at the 10-12 age category in consecutive years, 1999 & 2000. He was selected to the national team and represented Turkey in European Youth Chess Championship in 1999. After both losing our first rounds, he had a match with Sergey Karyakin who, in later years, turned into the youngest chess grandmaster. Sergey Karyakin became the champion of that tournament by winning the rest of his matches, starting from me. 

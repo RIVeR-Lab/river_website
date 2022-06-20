@@ -10,55 +10,31 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role:
+role: M.S. Student 
 
 # Organizations/Affiliations
 organizations:
-- name: 
+- name: Northeastern University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:
 
 # List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- Biology
+- Human-in-the-loop robotic systems
+- Machine learning
+- Neuroscience
+- Statistical modeling
+- Virtual reality
 
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/USERNAME
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
-- icon: github
-  icon_pack: fab
-  link: https://github.com/USERNAME
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+  - course: B.S - Computer Science
+    institution: Northeastern University
+  - course: B.S. - Physics
+    institution: Northeastern University
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -66,6 +42,19 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Group 1
-- Group 2
+- M.S. Students
 ---
+
+## Biography
+
+Stephen studies Computer Science, Physics, and Math at Northeastern University. He is highly interested in human-in-the-loop robotic systems and the connection between biology/neuroscience and robotics.  His research involves using probabilistic deep learning methods to create flexible and comprehensible models. Stephen is interested in all collaborations or opportunities involving robotics, machine learning, neuroscience, statistical modeling, and virtual reality.
+
+Fun Fact: Stephen loves helping the local community and has over 500 volunteer hours during his time at Northeastern!
+
+## Publications
+
+- Wonsick M., Kelestemur T., Alt S., and Padir T., "Telemanipulation via Virtual Reality Interfaces with Enhanced Environment Models", 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021.                                                                                
+
+- A. Tzadok, S. Alt, and A. Valdes-Garcia, “Towards Attention Driven 3D Radar for Event Classification: Loosely Coupled Multimodal AI”, Government Microcircuits Applications and Critical Technology Conference (GOMAC), 2021.                                                                                
+
+- Luo R., Wang C., Schwarm E., Keil C., Mendoza E., Alt S., Whitney P., and Padir T., "Towards Robot Avatars: Systems and Methods for Teleinteraction at Avatar XPRIZE Semi-Finals", 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022.

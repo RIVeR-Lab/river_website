@@ -20,6 +20,7 @@ content:
     - PhD Students
     - M.S. Students
     - Undergraduates
+    - Alumni
 design:
   show_interests: false
   show_role: true

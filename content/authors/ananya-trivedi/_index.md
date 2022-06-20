@@ -14,7 +14,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are focused on using numerical optimization methods for improving robustness guarantees of robotic motion planning & control algorithms through mathematical modeling and analysis of nonlinear dynamical systems under environmental, sensing and actuation uncertainties.
+bio:
 
 interests:
   - Control under contact

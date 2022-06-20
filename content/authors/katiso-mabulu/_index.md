@@ -10,62 +10,42 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role:
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: 
+- name: Northeastern University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:
 
 # List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- Emergency response
+- Localization systems
+- Wearable devices
 
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+  - course: PhD
+    institution: Northeastern University
+  - course: B.S. - Electrical Engineering, Minor in Nanoscience
+    institution: Hampton University, Hampton, VA
 
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/USERNAME
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
-- icon: github
-  icon_pack: fab
-  link: https://github.com/USERNAME
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Highlight the author in author lists? (true/false)
 highlight_name: false
 
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Group 1
-- Group 2
+- PhD Students
+
 ---
+
+## Biography
+
+Katiso Mabulu is a 4th year PhD student with research interests focused on the development of an indoor localization system for first responders that facilitates communication and location correction through gesture inputs. The challenge is to develop a system that relies on solely wearable devices for accurate localization, while providing an efficient communication system to facilitate the transfer of information between responders in the building and operators in the emergency vehicle.
+
+Fun fact: Katiso has been to more than 15 different countries: South Africa, Namibia, Mozambique, Botswana, Lesotho, Swaziland, Kenya, England, Italy, Vatican City, Switzerland, Dubai, Netherlands, Jamaica, Barbados, Mexico, Canada, and the United States
+
+## Publications
+
+- Productive Inconvenience: Facilitating Posture Variability by Stimulating Robot-to-Human Handovers (currently revising final submission)

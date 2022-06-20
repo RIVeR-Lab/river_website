@@ -10,55 +10,31 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role:
+role: PhD Student   
 
 # Organizations/Affiliations
 organizations:
-- name: 
+- name: Northeastern University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:
 
 # List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- Human-in-the-loop shared control
+- Human-robot collaboration/interaction
+- Real-time control
+- Teleoperation
 
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/USERNAME
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
-- icon: github
-  icon_pack: fab
-  link: https://github.com/USERNAME
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+  - course: PhD
+    institution: Northeastern University
+  - course: M.S.
+    institution: Northeastern University
+  - course: B.S.
+    institution: Xian Jiaotong University, Xi'an, China
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -66,6 +42,19 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Group 1
-- Group 2
+- PhD Students
 ---
+
+## Biography
+
+Rui Luo is a fourth-year PhD student. His research focus has always been on how to make robots assist humans better in work and daily life. His past work includes human intention interpretation, human action recognition as well as task characterization such that robots can understand human’s intention and collaborate fluently. His current research goal is focused on human-in-the-loop real-time robot shared control to achieve various teleoperation tasks.  
+
+Fun fact: If Rui was not doing robotics, he might become a writer since he loved reading literature and composing articles when he was a child. But now the only languages he is good at writing are Python and C++.
+
+## Publications
+
+- [A Shared Control Method for Collaborative Human-Robot Plug Task](https://ieeexplore.ieee.org/abstract/document/9492826)
+
+- [Novelti 2.0: Enhanced Assistive Robot Navigation with Low Throughput Interfaces](https://dl.acm.org/doi/abs/10.1145/3453892.3458042)
+
+- [Affordance-based mobile robot navigation among movable obstacles](https://ieeexplore.ieee.org/abstract/document/9341337)
