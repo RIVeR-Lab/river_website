@@ -15,7 +15,7 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: hanson.n@northeastern.edu
+  email: hanson [dot] n [at] northeastern.edu
   address:
     street: 805 Columbus Avenue
     city: Boston
@@ -33,7 +33,7 @@ content:
   #    link: 'https://discourse.gohugo.io'
 
   # Automatically link email and phone or display as text?
-  autolink: true
+  autolink: false
 
   # Email form provider
   form:
@@ -48,4 +48,4 @@ design:
   columns: '1'
 ---
 
-We have an awesome facility in the Interdisciplinary Science & Engineering Complex on Northeastern's Boston campus. If you are a current Northeastern Student, we welcome you to reach out through the contact form to discuss your interests an ways to get involved.
+We have an awesome facility in the Interdisciplinary Science & Engineering Complex on Northeastern's Boston campus. If you are a current Northeastern Student, we welcome you to reach out through the contact form to discuss your interests and ways to get involved.
