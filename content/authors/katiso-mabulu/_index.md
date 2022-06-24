@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD Student
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -42,7 +42,7 @@ user_groups:
 
 ## Biography
 
-Katiso Mabulu is a 4th year PhD student with research interests focused on the development of an indoor localization system for first responders that facilitates communication and location correction through gesture inputs. The challenge is to develop a system that relies on solely wearable devices for accurate localization, while providing an efficient communication system to facilitate the transfer of information between responders in the building and operators in the emergency vehicle.
+Katiso Mabulu is a 4th year PhD candidate with research interests focused on the development of an indoor localization system for first responders that facilitates communication and location correction through gesture inputs. The challenge is to develop a system that relies on solely wearable devices for accurate localization, while providing an efficient communication system to facilitate the transfer of information between responders in the building and operators in the emergency vehicle.
 
 Fun fact: Katiso has been to more than 15 different countries: South Africa, Namibia, Mozambique, Botswana, Lesotho, Swaziland, Kenya, England, Italy, Vatican City, Switzerland, Dubai, Netherlands, Jamaica, Barbados, Mexico, Canada, and the United States
 

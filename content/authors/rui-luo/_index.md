@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD Student   
+role: PhD Candidate   
 
 # Organizations/Affiliations
 organizations:
@@ -47,7 +47,7 @@ user_groups:
 
 ## Biography
 
-Rui Luo is a fourth-year PhD student. His research focus has always been on how to make robots assist humans better in work and daily life. His past work includes human intention interpretation, human action recognition as well as task characterization such that robots can understand human’s intention and collaborate fluently. His current research goal is focused on human-in-the-loop real-time robot shared control to achieve various teleoperation tasks.  
+Rui Luo is a fourth-year PhD candidate. His research focus has always been on how to make robots assist humans better in work and daily life. His past work includes human intention interpretation, human action recognition as well as task characterization such that robots can understand human’s intention and collaborate fluently. His current research goal is focused on human-in-the-loop real-time robot shared control to achieve various teleoperation tasks.  
 
 Fun fact: If Rui was not doing robotics, he might become a writer since he loved reading literature and composing articles when he was a child. But now the only languages he is good at writing are Python and C++.
 

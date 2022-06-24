@@ -23,7 +23,6 @@ bio:
 # List each interest with a dash
 interests:
 - Autonomous navigation
-- Dynamic environments
 - Mapping
 - Mobile robots
 

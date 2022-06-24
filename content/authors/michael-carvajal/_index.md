@@ -23,13 +23,14 @@ bio:
 # List each interest with a dash
 interests:
 - Controlled motion
-- Human-centered interaction
 - Mechanisms
+- Collaborative robots
+- Human-centered interaction
 
 education:
   courses:
   - course: M.S. - Robotics
-    institution: Northeastern University
+    institution: Northeastern University (NEU)
     year: 2023
   - course: B.S. - Mechanical Engineering
     institution: Massachusetts Institute of Technology (MIT)
@@ -47,6 +48,6 @@ user_groups:
 
 ## Biography
 
-As a Graduate Research Assistant, Carv has been leaning on his past experiences of working in the Product Development industry to help streamline the robust design and physical prototyping of robotic solutions for various lab projects. Most notably, he recently led the development of the customized foam spray gun end-effector for the P.A.R.I.S. air-sealing robot the lab submitted to the recent E-ROBOT competition; the spray gun featured a motor-controlled trigger and was equipped with a thermal camera and a stereo vision camera that were both housed in a human-friendly enclosure of his own design. He looks forward to working with Prof. Padir to formulate ideas for a thesis project that can combine his interests in controlled motion, mechanisms, and human-centered interaction.
+As a Graduate Research Assistant, Carv has been leaning on his past experiences of working in the Product Development industry to help streamline the robust design and physical prototyping of some of the lab's robotic solutions. Most recently, he led the development of the customized foam spray gun end-effector for P.A.R.I.S., the air-sealing robot that the lab submitted to the DoE's E-ROBOT competition. Under Prof. Padir’s guidance, Carv hopes to be able to "carve" out a thesis project that incorporates many of his technical interests.
 
-Fun fact: Both of his grandfathers were active in the music scene of their respective home countries. His paternal grandfather played guitar and sang in a music group in Ecuador; his maternal grandfather moonlit as a saxophone player in an orchestral nightclub band in Costa Rica. Carv aspires to be as cool as they were.
+Fun fact: As part of a recording musical group in Ecuador, his paternal grandfather sang and played the guitar; as part of an established orchestral band in Costa Rica, his maternal grandfather played the saxophone. As someone who enthusiastically tinkers in music production, Carv aspires to be half as cool as either of his abuelos.

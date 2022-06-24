@@ -42,6 +42,6 @@ user_groups:
 
 ## Biography
 
-Samuel Hibbard is an undergraduate researcher studying mechanical engineering. His primary research focus is in compliant mechanisms applications for robotics. He is currently working on a robotic system to assist skilled workers handling and cutting large fish. He designed the mechatronics for thee PARIS climate retrofitting robot in the DOE E-ROBOT competition. He led Northeastern University's team competing in the NASA Mars Ice Challenge.
+Samuel Hibbard is an undergraduate researcher studying mechanical engineering. His primary research focus is in compliant mechanisms applications for robotics. He is currently working on a robotic system to assist skilled workers handling and cutting large fish. He designed the mechatronics for the PARIS climate retrofitting robot in the DOE E-ROBOT competition. He led Northeastern University's team competing in the NASA Mars Ice Challenge.
 
 Fun fact: Samuel designed the RIVeR Lab logo!

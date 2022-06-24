@@ -14,11 +14,10 @@ organizations:
     url: ''
 
 interests:
-  - Biomedical engineering
+  - Prosthetics
   - Grasp mechanics  
   - Hyperspectral imaging
   - Material sensing  
-  - Prosthetics
 
 education:
   courses:
@@ -38,9 +37,9 @@ user_groups:
 
 ## Biography
 
-Austin Allison is a first-year PhD student in bioengineering. His research interests will be predominantly focused on a next-generation robotic prosthetic hand. It will incorporate hyperspectral imaging sensors to infer material properties. Using this information, appropriate grasp mechanics can be selected by the hand, allowing for a greater amount of shared control between the user and the robot. This is an interdisciplinary project, sharing aspects between biomedical engineering and robotics.
+Austin Allison is a first-year PhD student in bioengineering. His research interests will be predominantly focused on a next-generation robotic prosthetic hand. It will incorporate hyperspectral imaging sensors to infer material properties. Using this information, appropriate grasp mechanics can be selected by the hand, allowing for a greater amount of shared control between the user and the robot.
 
-Fun fact: Austin took a dairy cow handling class during senior year, where the class learned how to milk cows, everything about cow judging, and even toured a dairy that had a robotic automatic milking and processing machine.
+Fun fact: Austin took a dairy cow handling class senior year where they learned how to milk and judge cows, and toured a dairy with a robotic milking machine.
 
 ## Publications
 

@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD Student
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -23,11 +23,13 @@ bio:
 # List each interest with a dash
 interests:
 - Deep reinforcement learning
-- Dynamic environments
-- Motion planning
-- Motion primitives
 - Optimization
+- Motion planning
 - Reactive navigation
+- Dynamic environments
+- Automated hyperparameter tuning
+
+
 
 education:
   courses:
@@ -48,6 +50,6 @@ user_groups:
 
 ---
 
-Neset Unver Akmandor is a fourth-year PhD student in computer engineering. His research is focused on improving the computational efficiency and robustness of motion generation/planning algorithms for mobile robots to enable complex tasks in dynamic environments. To achieve such objectives, he has been developing algorithms that bridge classical methods (sampling/optimization based) and deep reinforcement learning. The proceedings of his work include applications with unmanned aerial vehicle systems and mobile manipulator platforms.
+Neset Unver Akmandor is a fourth-year PhD candidate in computer engineering. His research is focused on improving the computational efficiency and robustness of motion generation/planning algorithms for mobile robots to enable complex tasks in dynamic environments. To achieve such objectives, he has been developing algorithms that bridge classical methods (sampling/optimization based) and deep reinforcement learning. The proceedings of his work include applications with unmanned aerial vehicle systems and mobile manipulator platforms.
 
-Fun fact: Unver won the second place in Turkish National Chess Championship at the 10-12 age category in consecutive years, 1999 & 2000. He was selected to the national team and represented Turkey in European Youth Chess Championship in 1999. After both losing our first rounds, he had a match with Sergey Karyakin who, in later years, turned into the youngest chess grandmaster. Sergey Karyakin became the champion of that tournament by winning the rest of his matches, starting from me. 
+Fun fact: Unver won the second place in Turkish National Chess Championship at the 10-12 age category in consecutive years, 1999 & 2000. He was selected to the national team and represented Turkey in European Youth Chess Championship in 1999. After both losing their first rounds, he had a match with Sergey Karyakin who, in later years, turned into the youngest chess grandmaster. Sergey Karyakin became the champion of that tournament by winning the rest of his matches, starting from him.

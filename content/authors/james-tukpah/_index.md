@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD Student
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -46,9 +46,9 @@ user_groups:
 
 ## Biography
 
-James Tukpah is a PhD student in computer science. He is currently working with off-road autonomous vehicles, trying to classify their level of autonomy based on the performance in varying terrains and to determine methods to properly simulate performance in diverse terrains. He is also working on developing a more streamlined process for a shared controller system between service robots and virtual and augmented reality (AR/VR). The goal is to provide human users with a better way of receiving and sending information over VR/AR platforms while making it easier to control and understand the robot's actions.
+James Tukpah is a PhD candidate in computer science. He is currently working with off-road autonomous vehicles, trying to classify their level of autonomy based on the performance in varying terrains and to determine methods to properly simulate performance in diverse terrains. He is also working on developing a more streamlined process for a shared controller system between service robots and virtual and augmented reality (AR/VR). The goal is to provide human users with a better way of receiving and sending information over VR/AR platforms while making it easier to control and understand the robot's actions.
 
-Fun fact: James has played the drums since he was 18 years old and piano for 10 years. James loves to cook.
+Fun fact: James has played the drums for 18 years and piano for 10 years. James loves to cook.
 
 ## Publications
 
