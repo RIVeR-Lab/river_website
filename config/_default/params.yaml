@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: minimal
-  theme_night: mr_robot
+  theme_night: minimal
   # font: native
   google_font: family=Lato:wght@300
   font_size: L
