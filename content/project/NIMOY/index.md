@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "NIMOY"
-summary: ""
+summary: "An Integrated Battle Damage Assessment Tool (IBDAT) for Naval Ships"
 authors: []
 tags: []
 categories: []
@@ -39,3 +39,9 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+## Overview
+
+The U.S. Navy is actively working to regain (and surpass) a robust level of battle-readiness skills including the ability to assess and prioritize a ship’s battle damage in real time. The Navy aims to leverage this assessment capability to proactively plan and conduct repairs, preferably while the ship is still at sea, thereby maximizing the percentage of fleet assets that are on-station and battle-ready. For this on-going project, the RIVeR Lab is developing an Integrated Battle Damage Assessment Tool (IBDAT)—internally code-named NIMOY—to collect data from shipboard sensors, both static and robotic, and use it to generate and visualize predictive analytics for automated damage assessment of active Navy vessels in a user-friendly interface.
+
+![s](nimoy1.jpg)
