@@ -24,7 +24,7 @@ content:
         brightness: 0.7
         media: RIVeR_Home.jpg
     - title: People
-      content: 'Our talented teama of humans (and robots) is a winning combo!'
+      content: 'Our talented team of humans (and robots) is a winning combo!'
       align: left
       background:
         position: center
