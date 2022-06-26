@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: RIVeR Lab # Website name
-baseURL: '10.75.12.122' # Website URL # TODO fix this
+baseURL: 'https://10.75.12.122' # Website URL
 
 ############################
 ## LANGUAGE
