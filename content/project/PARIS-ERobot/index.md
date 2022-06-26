@@ -40,6 +40,8 @@ url_video: ""
 slides: ""
 ---
 
+{{< youtube EeUf7jYVDR0 >}}
+
 ## Overview
 
 For air-sealing in attic crawlspaces, a robot should be able to access most of typical narrow locations in the attic crawlspace, carry the tools required for air-sealing (spray gun, sealant can), and precisely apply spray foam sealant to the locations to be sealed. It should be noted that a drone cannot do the job due to the limited payload, and legged robot is not efficient in an attic crawlspace as it needs to grab and hold joists to navigate the attic crawlspace, without touching the ceiling and existing insulations. Our team has built PARIS (Precise Air sealing Robot for Inaccessible Spaces).
@@ -56,5 +58,3 @@ PARIS’s highly maneuverable multi-track driving system with flippers allows it
 ![screen reader text](paris5.png)
 
 PARIS’ small footprint and driving system makes it a less invasive solution than traditional (human-only) air-sealing efforts, since it minimizes incidental damage like additional holes/cuts for human access. Its light weight also minimizes mess/potential damage to the property when it navigates the attic crawlspace. Learn more about PARIS and our submission to the Department of Energy E-Robot challenge in this short video.
-
-{{< youtube EeUf7jYVDR0 >}}
