@@ -6,7 +6,6 @@ summary: "Co-worker Robots to Impact Seafood Processing: Designs, Tools and Meth
 authors: []
 tags: []
 categories: []
-date: 2022-06-25T20:10:22-04:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
