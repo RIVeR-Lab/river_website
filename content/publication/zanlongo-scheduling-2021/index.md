@@ -8,7 +8,7 @@ authors:
 - Sebastián A. Zanlongo
 - Peter Dirksmeier
 - Philip Long
-- Taskin Padir
+- Taşkın Padır
 - Leonardo Bobadilla
 tags:
 - human robot interaction

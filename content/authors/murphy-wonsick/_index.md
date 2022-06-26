@@ -22,8 +22,9 @@ bio:
 
 # List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- Mixed Reality
+- Virtual Reality Interfaces
+- Humanoid Robots
 
 education:
   courses:
@@ -41,7 +42,7 @@ education:
     year: 2014
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

@@ -10,7 +10,7 @@ authors:
 - Tarik Kelestemur
 - Joseph Berman
 - Dominik Ritzenhoff
-- Taskin Padir
+- Taşkın Padır
 tags: []
 categories: []
 date: '2022-01-01'

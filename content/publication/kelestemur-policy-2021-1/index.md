@@ -5,7 +5,7 @@ title: Policy Learning for Visually Conditioned Tactile Manipulation
 subtitle: ''
 summary: ''
 authors:
-- Tarık Keleştemur
+- Tarik Kelestemur
 - Taşkın Padır
 - Robert Platt
 tags:

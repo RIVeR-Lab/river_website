@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Marcos Oliveira
 - Akshay Vaidya
-- Taskin Padir
+- Taşkın Padır
 - Samuel Felton
 tags:
 - Conferences

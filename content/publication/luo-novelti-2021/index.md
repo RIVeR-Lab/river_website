@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Rui Luo
 - Dmitry Sinyukov
-- Taskin Padir
+- Taşkın Padır
 tags:
 - Human-machine interface
 - Human-robot interaction

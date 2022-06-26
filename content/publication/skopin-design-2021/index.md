@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Matthew Skopin
 - Philip Long
-- Taskin Padir
+- Taşkın Padır
 tags:
 - Cable-driven parallel robots
 - Collision avoidance

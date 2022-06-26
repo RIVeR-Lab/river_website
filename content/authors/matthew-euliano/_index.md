@@ -33,7 +33,7 @@ education:
   - course: B.S. - Mechanical Engineering
     institution: Virginia Polytechnic Institute and State University (Virginia Tech)
 
-highlight_name: false
+highlight_name: true
 
 user_groups:
 - M.S. Students

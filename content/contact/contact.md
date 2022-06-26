@@ -14,8 +14,6 @@ subtitle:
 
 content:
   # Contact (edit or remove options as required)
-
-  email: hanson [dot] n [at] northeastern.edu
   address:
     street: 805 Columbus Avenue
     city: Boston

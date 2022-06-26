@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Tarik Kelestemur
 - Robert Platt
-- Taskin Padir
+- Taşkın Padır
 tags:
 - Computer Science - Robotics
 categories: []

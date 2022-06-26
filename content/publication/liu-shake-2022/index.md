@@ -8,7 +8,7 @@ authors:
 - Chang Liu
 - Samuel J. Wohlever
 - Maria B. Ou
-- Taskin Padir
+- Taşkın Padır
 - Samuel M. Felton
 tags:
 - Dynamics

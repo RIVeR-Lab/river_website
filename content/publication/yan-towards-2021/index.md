@@ -9,7 +9,7 @@ authors:
 - Yujie Yan
 - Zhong Mao
 - Jiahao Wu
-- Taskin Padir
+- Taşkın Padır
 - Jerome F. Hajjar
 tags:
 - crack detection

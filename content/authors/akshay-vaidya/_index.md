@@ -37,7 +37,7 @@ education:
     institution: University of Massachusetts - Lowell
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 user_groups:
 - PhD Students

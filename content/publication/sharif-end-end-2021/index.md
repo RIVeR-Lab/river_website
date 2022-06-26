@@ -9,7 +9,7 @@ authors:
 - Mohammadreza Sharif
 - Deniz Erdogmus
 - Christopher Amato
-- Taskin Padir
+- Taşkın Padır
 tags:
 - Electromyography
 - Grasping

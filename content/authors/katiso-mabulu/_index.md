@@ -33,7 +33,7 @@ education:
   - course: B.S. - Electrical Engineering, Minor in Nanoscience
     institution: Hampton University, Hampton, VA
 
-highlight_name: false
+highlight_name: true
 
 user_groups:
 - PhD Students

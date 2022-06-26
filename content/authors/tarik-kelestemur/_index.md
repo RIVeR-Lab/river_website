@@ -36,7 +36,7 @@ education:
     institution: TOBB University of Economy and Technology
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -46,7 +46,7 @@ user_groups:
 
 ## Biography
 
-Tarik Kelestemur is a PhD Student in the [Computer Engineering](http://www.ece.neu.edu/) program at [Northeastern University](http://www.neu.edu/) under the supervision of [Robert Platt](https://www.ccs.neu.edu/home/rplatt/) and [Taskin Padir](https://coe.northeastern.edu/people/padir-taskin/).
+Tarik Kelestemur is a PhD Student in the [Computer Engineering](http://www.ece.neu.edu/) program at [Northeastern University](http://www.neu.edu/) under the supervision of [Robert Platt](https://www.ccs.neu.edu/home/rplatt/) and [Taşkın Padır](https://coe.northeastern.edu/people/padir-taskin/).
 He completed his MS degree in the same department in 2018. He received his
 BS degree in Electrical and Electronic Engineering from [TOBB University of Economy and Technology](https://www.etu.edu.tr/en)
 in Turkey. His research interests lie at the intersection of machine

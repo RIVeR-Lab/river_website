@@ -10,7 +10,7 @@ authors:
 - Jordan Allspaw
 - Murphy Wonsick
 - James Tukpah
-- Taskin Padir
+- Taşkın Padır
 - Holly Yanco
 - Elizabeth Phillips
 tags: []

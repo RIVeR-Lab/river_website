@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Nasim Shafiee
-- Taskin Padir
+- Taşkın Padır
 - Ehsan Elhamifar
 tags: []
 categories: []

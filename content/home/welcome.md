@@ -1,23 +1,65 @@
 ---
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
+widget: slider
+weight: 1
+active: true
+headless: true
 
-widget: hero # See https://wowchemy.com/docs/page-builder/
-headless: true # This file represents a page section.
-weight: 10 # Order that this section will appear.
-title: |
-  Wowchemy  
-  Research Group
-hero_media: welcome.jpg
 design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
-  # Add custom styles
-  css_style:
-  css_class:
+  # Slide height is automatic unless you force a specific height (e.g. '400px')
+  slide_height: ''
+  is_fullscreen: true
+  # Automatically transition through slides?
+  loop: false
+  # Duration of transition between slides (in ms)
+  interval: 2000
+
+content:
+  slides:
+    - title: Welcome to the Lab
+      content: The **Robotics and Intelligent Vehicles Research Laboratory (RIVeR)** has been at the cutting edge of experiential research since its founding in 2010.
+      align: left
+      background:
+        position: right
+        color: '#666'
+        brightness: 0.7
+        media: RIVeR_Home.jpg
+    - title: People
+      content: 'Our talented teamm of humans (and robots) is a winning combo!'
+      align: left
+      background:
+        position: center
+        color: '#555'
+        brightness: 0.7
+        media: RIVeR_friends.jpg
+      link:
+        icon: user-group
+        icon_pack: fas
+        text: Meet the Team
+        url: ../people/
+    - title: Research
+      content: 'Our work takes us into the real world as we tackle challenges in multi-modal perception and human-robot teaming.'
+      align: left
+      background:
+        position: center
+        color: '#555'
+        brightness: 0.7
+        media: RIVeR_VAST.png
+      link:
+        icon: atom
+        icon_pack: fas
+        text: Current Research
+        url: ../project/
+    - title: Join Us
+      content: 'Interested in our work? Want to get involved? Drop us a line.'
+      align: left
+      background:
+        position: center
+        color: '#333'
+        brightness: 0.5
+        media: RIVeR_ACE_PROJECT.jpg
+      link:
+        icon: handshake-angle
+        icon_pack: fas
+        text: Join Us
+        url: ../contact/
 ---
-
-<br>
-
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.

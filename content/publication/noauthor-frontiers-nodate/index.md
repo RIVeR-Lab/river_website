@@ -1,14 +1,23 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Frontiers textbar A Holistic Approach to Human-Supervised Humanoid Robot Operations
-  in Extreme Environments textbar Robotics and AI
+title: A Holistic Approach to Human-Supervised Humanoid Robot Operations
+  in Extreme Environments
 subtitle: ''
 summary: ''
-authors: []
+authors:
+- Murphy Wonsick
+- Phillip Long
+- Aykut Özgün
+- Maozhen Wang
+- Taşkın Padır
 tags: []
-categories: []
-date: -01-01
+categories:
+- Humanoid robotics
+- Motion planning
+- Interfaces
+- Terrain estimation
+date: '2021'
 lastmod: 2022-06-24T16:44:33-04:00
 featured: false
 draft: false
@@ -27,11 +36,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-06-24T20:44:33.233740Z'
+publishDate: '2021-06-24T20:44:33.233740Z'
 publication_types:
-- '0'
-abstract: ''
+- '2'
+abstract: Nuclear energy will play a critical role in meeting clean energy targets worldwide. However, nuclear environments are dangerous for humans to operate in due to the presence of highly radioactive materials. Robots can help address this issue by allowing remote access to nuclear and other highly hazardous facilities under human supervision to perform inspection and maintenance tasks during normal operations, help with clean-up missions, and aid in decommissioning. This paper presents our research to help realize humanoid robots in supervisory roles in nuclear environments. Our research focuses on National Aeronautics and Space Administration (NASA’s) humanoid robot, Valkyrie, in the areas of constrained manipulation and motion planning, increasing stability using support contact, dynamic non-prehensile manipulation, locomotion on deformable terrains, and human-in-the-loop control interfaces.
 publication: ''
+doi: 10.3389/frobt.2021.550644
 links:
 - name: URL
   url: https://www.frontiersin.org/articles/10.3389/frobt.2021.550644/full
