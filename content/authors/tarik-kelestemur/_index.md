@@ -53,4 +53,4 @@ in Turkey. His research interests lie at the intersection of machine
 learning and robotic manipulation. Specifically, he is interested in
 methods combining classical robotic algorithms with data-driven methods
 with applications to tactile manipulation. He also leads a team of
-students, [Team Northeastern](http://robot.neu.edu/frasier/), to participate in the [RoboCup@Home Challenge](http://www.robocupathome.org/).
+students, Team Northeastern, to participate in the [RoboCup@Home Challenge](http://www.robocupathome.org/).
