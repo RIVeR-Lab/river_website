@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "PARIS E-Robot"
-summary: ""
+summary: "For air-sealing in attic crawlspaces, a robot should be able to access most of typical narrow locations in the attic crawlspace, carry the tools required for air-sealing (spray gun, sealant can), and precisely apply spray foam sealant to the locations to be sealed."
 authors: []
 tags: []
 categories: []

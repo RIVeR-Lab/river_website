@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Hand2Hand"
-summary: ""
+summary: "This project explores human and robotic perception, behavior, and intent inference in a bidirectional and integrated manner within the context of object handover."
 authors: []
 tags: []
 categories: []

@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "NRMM"
-summary: ""
+summary: "Physics-based autonomous terrain traversability for multi-terrain vehicles."
 authors: []
 tags: []
 categories: []

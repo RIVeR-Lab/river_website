@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "CONVOY"
-summary: ""
+summary: "Enabling multi-vehicle autonomy algorithms at speed with added security assurances."
 authors: []
 tags: []
 categories: []
