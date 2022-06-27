@@ -2,6 +2,8 @@
 # Display name
 title: "Neset Unver Akmandor"
 
+weight: 21
+
 # Username (this should match the folder name and the name on publications)
 authors:
 - "neset-unver-akmandor"

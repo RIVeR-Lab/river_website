@@ -2,6 +2,8 @@
 # Display name
 title: "Katiso Mabulu"
 
+weight: 12
+
 # Username (this should match the folder name and the name on publications)
 authors:
 - "katiso-mabulu"

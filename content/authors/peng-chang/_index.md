@@ -2,6 +2,8 @@
 # Display name
 title: "Peng Chang"
 
+weight: 22
+
 # Username (this should match the folder name and the name on publications)
 authors:
 - "peng-chang"

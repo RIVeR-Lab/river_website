@@ -2,6 +2,8 @@
 # Display name
 title: "Mark Zolotas"
 
+weight: 14
+
 # Username (this should match the folder name and the name on publications)
 authors:
 - "mark-zolotas"
