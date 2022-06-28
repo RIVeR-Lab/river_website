@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: RIVeR Lab # Website name
-baseURL: 'http://129.10.227.224' # Website URL
+baseURL: 'https://robot.neu.edu' # Website URL
 
 ############################
 ## LANGUAGE
