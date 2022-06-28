@@ -59,6 +59,6 @@ highlight_name: true
 user_groups:
 - Faculty
 ---
-Taşktn Padtr is an Associate Professor in the Electrical and Computer Engineering Department at Northeastern University. He received his PhD and MS degrees in electrical and computer engineering from Purdue University. He is the Director of Robotics and Intelligent Vehicles Research Laboratory (RIVeR Lab). He is also the Founding Director of the Institute for Experiential Robotics at Northeastern. His research interests include supervised autonomy for humanoid robots, shared autonomy for intelligent vehicles, and human-in-the-loop control systems with applications in exploration, disaster response, personalized in-home care, and nuclear decommissioning. He is also concurrently an Amazon Scholar with Amazon Global Robotics.
+Taşkın Padır is an Associate Professor in the Electrical and Computer Engineering Department at Northeastern University. He received his PhD and MS degrees in electrical and computer engineering from Purdue University. He is the Director of Robotics and Intelligent Vehicles Research Laboratory (RIVeR Lab). He is also the Founding Director of the Institute for Experiential Robotics at Northeastern. His research interests include supervised autonomy for humanoid robots, shared autonomy for intelligent vehicles, and human-in-the-loop control systems with applications in exploration, disaster response, personalized in-home care, and nuclear decommissioning. He is also concurrently an Amazon Scholar with Amazon Global Robotics.
 
 Fun Fact - His first name means flood in Turkish!
