@@ -54,6 +54,6 @@ user_groups:
 
 ## Biography
 
-Murphy Wonsick is a postdoctoral research associate in the Electrical and Computer Engineering department at Northeastern University. Murphy received her PhD in Computer Engineering from Northeastern University advised by Dr. Taskin Padir. Her current research focuses on identifying ways to utilize extended reality technologies (i.e., virtual reality and augmented reality headsets) to improve human-robot interaction and collaboration. Murphy’s current areas of interest include human-robot interaction, heterogeneous human-robot teams, virtual reality, augmented reality, and user experience and interface design.
+Murphy Wonsick is a postdoctoral research associate in the Electrical and Computer Engineering department at Northeastern University. Murphy received her PhD in Computer Engineering from Northeastern University advised by Dr. Taşkın Padır. Her current research focuses on identifying ways to utilize extended reality technologies (i.e., virtual reality and augmented reality headsets) to improve human-robot interaction and collaboration. Murphy’s current areas of interest include human-robot interaction, heterogeneous human-robot teams, virtual reality, augmented reality, and user experience and interface design.
 
 Fun fact: Murphy has worked at four different NASA centers.

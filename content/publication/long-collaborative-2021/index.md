@@ -6,9 +6,9 @@ title: Collaborative robotics for deformable object manipulation with use cases 
 subtitle: ''
 summary: ''
 authors:
-- P. [Long Long
-- P. [Martinet Martinet
-- T. [Padir Padir
+- Philip Long
+- Philipee Martinet
+- Taşkın Padır
 tags: []
 categories: []
 date: '2021-01-01'
