@@ -21,6 +21,7 @@ content:
     - PhD Students
     - M.S. Students
     - Undergraduates
+    - Co-Ops
     - Alumni
 design:
   show_interests: false
