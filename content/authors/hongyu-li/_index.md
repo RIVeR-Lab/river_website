@@ -40,5 +40,6 @@ user_groups:
 - M.S. Students
 ---
 ## Biography
+Hongyu's research interest lies at the intersection of computer vision, machine learning, and robotics, i.e., robot perception. Perception is at the essence of numerous robotics fields, and his current works focus on modeling the environment and object interaction accurately and efficiently.
 
 Fun fact: Hongyu raised some pet geese in his home, and they laid eggs.
