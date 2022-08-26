@@ -50,7 +50,7 @@ content:
         text: Current Research
         url: ../project/
     - title: Join Us
-      content: 'Interested in our work? Want to get involved? Drop us a line.'
+      content: 'Interested in our work? Join us at an upcoming event!'
       align: left
       background:
         position: center
@@ -60,6 +60,6 @@ content:
       link:
         icon: handshake-angle
         icon_pack: fas
-        text: Join Us
-        url: ../contact/
+        text: Events
+        url: ../event/
 ---
