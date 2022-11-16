@@ -2,6 +2,8 @@
 # Display name
 title: "Aykut Onol"
 
+weight: 4
+
 # Username (this should match the folder name and the name on publications)
 authors:
 - "aykut-onol"

@@ -64,7 +64,7 @@ Our team is one of twenty teams from twelve countries to be selected by the Avat
 ## The Team
 
 ### Advisors
-Taskin Padir |  Peter Whitney | Hanumant Singh
+Taşkın Padır |  Peter Whitney | Hanumant Singh
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](padir.jpg)  |  ![](whitney.jpg) | ![](singh.jpg)
 

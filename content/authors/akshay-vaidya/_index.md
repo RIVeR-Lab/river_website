@@ -2,6 +2,8 @@
 # Display name
 title: "Akshay Vaidya"
 
+weight: 1
+
 # Username (this should match the folder name and the name on publications)
 authors:
 - "akshay-vaidya"

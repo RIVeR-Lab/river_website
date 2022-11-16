@@ -9,6 +9,6 @@ Congratulations to Dr. Taşkın Padır for being selected as an Amazon Scholar! 
 
 <!--more-->
 
-According to the official Amazon Science website,"The program is designed for academics from universities around the globe who want to work on large-scale technical challenges while continuing to teach and conduct research at their universities." Congratulations again, Taskin!
+According to the official Amazon Science website,"The program is designed for academics from universities around the globe who want to work on large-scale technical challenges while continuing to teach and conduct research at their universities." Congratulations again, Taşkın!
 
 Learn more [here](https://www.amazon.science/scholars)!

@@ -2,6 +2,8 @@
 # Display name
 title: "Tarik Kelestemur"
 
+weight: 28
+
 # Username (this should match the folder name and the name on publications)
 authors:
 - "tarik-kelestemur"
@@ -22,8 +24,10 @@ bio:
 
 # List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- Tactile sensing
+- Manipulation
+- Deep reinforcement learning
+- Point cloud processing
 
 education:
   courses:
@@ -54,3 +58,5 @@ learning and robotic manipulation. Specifically, he is interested in
 methods combining classical robotic algorithms with data-driven methods
 with applications to tactile manipulation. He also leads a team of
 students, Team Northeastern, to participate in the [RoboCup@Home Challenge](http://www.robocupathome.org/).
+
+Fun fact: Tarik is an amazing dancer.

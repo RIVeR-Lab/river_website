@@ -2,6 +2,8 @@
 # Display name
 title: "Dimitry Sinyukov"
 
+weight: 5
+
 # Username (this should match the folder name and the name on publications)
 authors:
 - "dimitry-sinyukov"

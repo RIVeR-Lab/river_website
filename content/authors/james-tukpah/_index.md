@@ -2,6 +2,8 @@
 # Display name
 title: "James Tukpah"
 
+weight: 11
+
 # Username (this should match the folder name and the name on publications)
 authors:
 - "james-tukpah"

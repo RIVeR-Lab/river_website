@@ -2,6 +2,8 @@
 # Display name
 title: "Philip Long"
 
+weight: 23
+
 # Username (this should match the folder name and the name on publications)
 authors:
 - "philip-long"

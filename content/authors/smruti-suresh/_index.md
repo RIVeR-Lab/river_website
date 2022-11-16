@@ -2,6 +2,8 @@
 # Display name
 title: "Smruti Suresh"
 
+weight: 26
+
 # Username (this should match the folder name and the name on publications)
 authors:
 - "smruti-suresh"
