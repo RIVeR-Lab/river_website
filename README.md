@@ -33,8 +33,8 @@
     * Configuration
       * | Attribute | Description    | Example               |
         |-----------|----------------|-----------------------|
-        | title     | Displayed name | title: "Adrian Selva" |
-        | authors   | Username, must match folder name and name on publications | authors: <ul><li>"adrian-selva"</li></ul> |
+        | title     | Displayed name | title: "Michael Hanson" |
+        | authors   | Username, must match folder name and name on publications | authors: <ul><li>"Michael Hanson"</li></ul> |
         | role      | Degree status | role: PhD Candidate |
         | organizations | University affiliation | organizations: <ul><li>name: Northeastern University<br>url: ""</li></ul>|
         | interests | Research interests | interests: <ul><li>Additive manufacturing</li><li>Navigation</li></ul>|
