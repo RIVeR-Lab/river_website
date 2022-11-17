@@ -33,14 +33,14 @@ jobs:
       - name: Build
         run: hugo
         
-      - name: Remove old files
-        uses: appleboy/ssh-action@master
-        with:
-          host: ${{ secrets.HOST }}
-          username: ${{ secrets.USERNAME }}
-          password: ${{ secrets.PASSWORD }}
-          port: ${{ secrets.PORT }}
-          script: cd /var/www ; ls | grep -v 'backup' | xargs -r rm -r
+      #- name: Remove old files
+      #  uses: appleboy/ssh-action@master
+      #  with:
+      #    host: ${{ secrets.HOST }}
+      #    username: ${{ secrets.USERNAME }}
+      #    password: ${{ secrets.PASSWORD }}
+      #    port: ${{ secrets.PORT }}
+      #    script: cd /var/www ; ls | grep -v 'backup' | xargs -r rm -r
 
       - name: Transfer Files
         uses: appleboy/scp-action@v0.1.2
