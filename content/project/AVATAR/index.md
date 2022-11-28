@@ -3,7 +3,7 @@
 
 title: "AVATAR"
 summary: "Team Northeastern competed against 16 teams from around the world in the ANA Avatar XPRIZE competition in November of 2022. They won 3rd place in the competition and along with it $1 million."
-authors: [David Nguyen]
+authors: []
 tags: []
 categories: []
 date: 2022-06-26T09:49:17-04:00
