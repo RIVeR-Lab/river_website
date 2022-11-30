@@ -16,7 +16,7 @@ design:
 content:
   slides:
     - title: Welcome to the Lab
-      content: The **Robotics and Intelligent Vehicles Research Laboratory (RIVeR)** has been at the cutting edge of experiential research since its founding in 2010.
+      content: The **Robotics and Intelligent Vehicles Research Laboratory (RIVeR)** has been at the cutting edge of experiential robotics research since its founding in 2010.
       align: left
       background:
         position: right
