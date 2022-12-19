@@ -8,7 +8,7 @@ weight: 7
 superuser: false
 
 # Role/position
-role: M.S. Student
+role: M.S. Alum
 
 # Organizations/Affiliations
 organizations:
@@ -38,7 +38,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - M.S. Students
+  - Alumni
 ---
 
 Eric Dusel is a master's student studying robotics with a concentration in computer science and a Gordon Institute for Engineering Leadership candidate. His primary research focus is in shared autonomous reach augmentation which involves the development of a platform for a human operator to intuitively control an assistive robotic manipulator, or a.r.m, through sparse high-level commands. The system determines the goal from the input and autonomously plans and executes the task for the user.  
