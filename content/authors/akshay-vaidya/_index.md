@@ -46,7 +46,7 @@ user_groups:
 ---
 ## Biography
 
-Akshay Vaidya is a PhD candidate in the RIVeR lab. Akshay's research focuses on various topics ranging from robotics, optimization and additive manufacturing.   
+Akshay Vaidya is a PhD candidate in the RIVeR lab. Akshay's research focuses on various topics ranging from robotics, optimization and additive manufacturing.
 
 Akshay's primary research focuses on leveraging robotics for additive manufacturing. Specifically, using a cold spray system coupled with a 6 DOF robotic arm to generate accurate and high-quality sprays. The goal is to determine complex robotic paths using optimization techniques to generate dimensionally accurate parts.  
 
