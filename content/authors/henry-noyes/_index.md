@@ -1,11 +1,11 @@
 ---
 # Display name
-title: "Benjamin Pyatski"
+title: "Henry Noyes"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "benjamin-pyatski"
-- 
+- "henry-noyes"
+
 # Is this the primary user of the site?
 superuser: false
 
@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-  - course: Computer Science and Computer Engineering
+  - course: Mathematics and Physics
     institution: Northeastern University
-    year: 2025
+    year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -67,4 +67,4 @@ user_groups:
 ---
 ## Biography
 
-Fun Fact: Benjamin can speak three languages!
+Fun Fact: Henry is an avid Boston sports fan, despite being born and raised in New York.
