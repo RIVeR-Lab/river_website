@@ -12,7 +12,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Postdoc
+role: Research Scientist
 
 # Organizations/Affiliations
 organizations:
@@ -42,13 +42,13 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Postdocs
+- Research Staff
 
 ---
 
 ## Biography
 
-Mark Zolotas received M.Eng. and Ph.D. degrees from the Department of Electrical and Electronic Engineering at Imperial College London, UK. He is currently a postdoctoral research associate in the Institute for Experiential Robotics at Northeastern University. His research interests span the domains of mixed reality, shared control and machine learning for human-robot interaction. All of these topics coincide with his overarching ambition to advance assistive robotics through transparent and seamless user experiences.
+Mark Zolotas received M.Eng. and Ph.D. degrees from the Department of Electrical and Electronic Engineering at Imperial College London, UK. He is currently a research scientist in the Institute for Experiential Robotics at Northeastern University. His research interests span the domains of mixed reality, shared control and machine learning for human-robot interaction. All of these topics coincide with his overarching ambition to advance assistive robotics through transparent and seamless user experiences.
 
 Fun fact: Mark went to the ER for a peanut stuck up his nose, aged 21.
 
