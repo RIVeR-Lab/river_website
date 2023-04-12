@@ -69,7 +69,7 @@ Sarvesh Prajapati | Farhan Sarfraz | Stephen Alt
 
 ---
 
-{{< youtube D-on06obYLo >}}
+{{< youtube rMg7UocKUNs >}}
 
 ---
 
@@ -149,7 +149,7 @@ IEEE, 2019.
 <div style="text-align: center;">
 
 ## GitHub
-[Team Northeastern's 2023 RoboCup@Home GitHub Repository](https://github.com/RIVeR-Lab/frasier_robocup)
+[Team Northeastern's 2023 RoboCup@Home GitHub Repository](https://github.com/RIVeR-Lab)
 
 </div>
 

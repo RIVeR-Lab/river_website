@@ -27,4 +27,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-The RIVeR lab kicked off the Spring semester with a lab retreat at the Boston Public Library. We're excited for a new semester fill with new research, new collaborations, and new faces!
+The RIVeR lab kicked off the Spring semester with a lab retreat at the Boston Public Library. We're excited for a new semester fill with new research, new collaborations, and new faces! Thank you all for attending!
