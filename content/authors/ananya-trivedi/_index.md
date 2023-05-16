@@ -8,7 +8,7 @@ weight: 2
 superuser: false
 
 # Role/position
-role: PhD Student
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -44,6 +44,6 @@ user_groups:
 
 ## Biography
 
-Ananya Trivedi is a first-year PhD student in computer engineering. His research interests involve using numerical optimization methods for improving robustness guarantees of robotic motion planning and control algorithms through mathematical modeling and analysis of nonlinear dynamical systems under environmental, sensing and actuation uncertainties.
+Ananya Trivedi is a second-year PhD candidate in computer engineering. His research interests involve using numerical optimization methods for improving robustness guarantees of robotic motion planning and control algorithms through mathematical modeling and analysis of nonlinear dynamical systems under environmental, sensing and actuation uncertainties.
 
 Fun fact: Ananya's primary school used to give out grades for activities like horse-riding, karate, boxing, swimming and cooking.
