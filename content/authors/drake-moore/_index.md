@@ -8,7 +8,7 @@ weight: 6
 superuser: false
 
 # Role/position
-role: Undergraduate
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -27,7 +27,10 @@ education:
   courses:
     - course: B.S. - Computer Science, Minor in Mathematics
       institution: Northeastern University
-      year: Winter 2022
+      year: 2022
+    - course: PhD - Computer Engineering
+      institution: Northeastern University
+      year: 2028
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -35,9 +38,9 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduates
+  - PhD Students
 ---
 
-Drake Moore is an undergraduate computer science major who is also working towards a minor in mathematics. He is expected to graduate in winter of 2022.
+Drake Moore is a first year PhD student in computer engineering. His research interests lie in enabling robots to assist humans in day-to-day tasks through methods such as shared control, environment modeling, and robot learning.
 
 Fun fact: Drake has been to every continent except Antarctica. He will hopefully make the journey next year.
