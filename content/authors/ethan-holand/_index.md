@@ -8,7 +8,7 @@ weight: 8
 superuser: false
 
 # Role/position
-role: Undergraduate
+role: B.S. Alumnus
 
 # Organizations/Affiliations
 organizations:
@@ -36,7 +36,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduates
+  - Alumni
 ---
 
 ## Biography
