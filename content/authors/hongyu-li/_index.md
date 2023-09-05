@@ -12,7 +12,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: M.S. Student
+role: M.S. Alumnus
 
 # Organizations/Affiliations
 organizations:
@@ -37,7 +37,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- M.S. Students
+- Alumni
 ---
 ## Biography
 Hongyu's research interest lies at the intersection of computer vision, machine learning, and robotics, i.e., robot perception. Perception is at the essence of numerous robotics fields, and his current works focus on modeling the environment and object interaction accurately and efficiently.
