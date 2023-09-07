@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Professor, Lab Principal Investigator
+role: Professor, Principal Investigator
 
 # Organizations/Affiliations
 organizations:
