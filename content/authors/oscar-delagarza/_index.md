@@ -52,5 +52,5 @@ user_groups:
 
 Oscar G. De La Garza is a first-year Masters Student in the Robotics Program at Northeastern University and an Amazon Day One Fellow. In the past Oscar has led teams in creating an autonomous UTV for off-road terrain identification, and with GE HealthCare for improving their alignment precision for CT scanner installations. He is particularly interested in exploring the relationship between autonomous robotics and humans, and is fascinated by the idea of humans and robots working together to solve complex problems.
 
-Fun fact: Climbed the side of the rockies in Colorado on an impromptu trip in tennis-shoes and jeans in wasit-deep snow in the winter. It was really really cold...
+Fun fact: Climbed the side of the rockies in Colorado on an impromptu trip in tennis-shoes and jeans in waist-deep snow in the winter. It was really really cold...
 
