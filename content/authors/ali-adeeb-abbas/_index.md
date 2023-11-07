@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ananya Trivedi
+title: Ali Adeeb Abbas
 
 weight: 2
 
