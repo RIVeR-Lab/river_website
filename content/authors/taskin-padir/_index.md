@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Taşkın Padır"
+title: "Taskin Padir"
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Professor, Lab Principal Investigator
+role: Professor, Principal Investigator
 
 # Organizations/Affiliations
 organizations:
