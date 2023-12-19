@@ -12,7 +12,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD Graduate
+role: Ph.D. Alumnus, Boston Dynamics AI Institute
 
 # social:
 # - icon: google-scholar

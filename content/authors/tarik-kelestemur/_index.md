@@ -12,7 +12,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Alumni, Covariant AI
+role: Ph.D. Alumnus, Boston Dynamics AI Institute
 
 # Organizations/Affiliations
 organizations:

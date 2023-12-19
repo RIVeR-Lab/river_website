@@ -12,7 +12,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Former Postdoc
+role: Former Postdoc, Lecturer at Atlantic Technological University
 
 social:
 - icon: google-scholar

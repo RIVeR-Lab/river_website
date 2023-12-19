@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: M.S. Alum
+role: M.S. Alumnus
 
 # Organizations/Affiliations
 organizations:

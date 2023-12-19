@@ -8,7 +8,7 @@ weight: 7
 superuser: false
 
 # Role/position
-role: M.S. Alumnus
+role: M.S. Alumnus, Toyota Research Institute
 
 # Organizations/Affiliations
 organizations:

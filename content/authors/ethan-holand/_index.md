@@ -8,7 +8,7 @@ weight: 8
 superuser: false
 
 # Role/position
-role: B.S. Alumnus
+role: B.S. Alumnus, M.S. Student at Carnegie Mellon University
 
 # Organizations/Affiliations
 organizations:

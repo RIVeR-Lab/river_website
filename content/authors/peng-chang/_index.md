@@ -12,7 +12,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD Graduate
+role: Ph.D. Alumnus, Black Sesame Technologies
 
 social:
 - icon: google-scholar

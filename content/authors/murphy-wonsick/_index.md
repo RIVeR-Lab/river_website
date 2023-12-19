@@ -12,7 +12,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Former Postdoc
+role: Ph.D. Alumna & Postdoc, Boston Dynamics AI Institute
 
 # Organizations/Affiliations
 organizations:

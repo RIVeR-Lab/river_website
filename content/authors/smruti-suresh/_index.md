@@ -12,7 +12,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: M.S. Alumnus
+role: M.S. Alumna
 
 # Organizations/Affiliations
 organizations:

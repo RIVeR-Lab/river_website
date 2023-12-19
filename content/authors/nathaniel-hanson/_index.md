@@ -12,7 +12,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD Candidate
+role: Ph.D. Alumnus, MIT Lincoln Laboratory
 
 # Organizations/Affiliations
 organizations:
@@ -50,12 +50,12 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Students
+- Alumni
 ---
 
 ## Biography
 
-Nathaniel Hanson is a PhD Candidate in the [Computer Engineering](http://www.ece.neu.edu/) program at [Northeastern University](http://www.neu.edu/) under the supervision of [Kristen Dorsey](https://coe.northeastern.edu/people/dorsey-kris/) and [Taşkın Padır](https://coe.northeastern.edu/people/padir-taskin/). Nathaniel’s research interests lie at the intersection of remote sensing technologies and robotics. His dissertation focuses on bringing hyperspectral imaging and near infrared spectroscopy into lighter, cheaper form factors for use in household robots. His current thrust involves using non-contact material estimation methods to infer object properties such as weight and friction. He welcomes all collaborations on practical applications of hyperspectral imaging in real-time processing and vision systems that extend beyond the visible wavelengths of light.
+Nathaniel Hanson is a PhD Graduate of the [Computer Engineering](http://www.ece.neu.edu/) program at [Northeastern University](http://www.neu.edu/) under the supervision of [Kristen Dorsey](https://coe.northeastern.edu/people/dorsey-kris/) and [Taşkın Padır](https://coe.northeastern.edu/people/padir-taskin/). Nathaniel’s research interests lie at the intersection of remote sensing technologies and robotics. His dissertation focused on bringing hyperspectral imaging and near infrared spectroscopy into lighter, cheaper form factors for use in household robots. His current thrust involves using non-contact material estimation methods to infer object properties such as weight and friction. He welcomes all collaborations on practical applications of hyperspectral imaging in real-time processing and vision systems that extend beyond the visible wavelengths of light.
 
 Fun fact: Nathaniel has played backup trumpet to the Rock & Roll Hall of Fame Band Chicago and Grammy Award Winner Arturo Sandoval
 
