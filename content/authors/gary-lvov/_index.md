@@ -12,7 +12,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Undergraduate
+role: Undergraduate Alumnus
 
 # Organizations/Affiliations
 organizations:
@@ -31,7 +31,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduates
+- Alumni
 ---
 
 ## Biography

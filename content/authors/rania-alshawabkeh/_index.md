@@ -8,7 +8,7 @@ weight: 8
 superuser: false
 
 # Role/position
-role: Co-Op
+role: Co-Op Alumna
 
 # Organizations/Affiliations
 organizations:
@@ -33,7 +33,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Co-Ops
+  - Alumni
 ---
 
 ## Biography

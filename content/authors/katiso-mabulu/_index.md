@@ -12,7 +12,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: PhD Candidate
+role: PhD Alumnus
 
 # Organizations/Affiliations
 organizations:
@@ -38,7 +38,7 @@ education:
 highlight_name: true
 
 user_groups:
-- PhD Students
+- Alumni
 
 ---
 
