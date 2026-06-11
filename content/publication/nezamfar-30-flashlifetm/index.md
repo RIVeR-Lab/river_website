@@ -18,7 +18,7 @@ authors:
 - ' others'
 tags: []
 categories: []
-date: -01-01
+date: '0001-01-01'
 lastmod: 2023-09-05T07:20:10-04:00
 featured: false
 draft: false

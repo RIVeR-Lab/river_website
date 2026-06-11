@@ -17,7 +17,7 @@ categories:
 - Motion planning
 - Interfaces
 - Terrain estimation
-date: '2021'
+date: '2021-01-01'
 lastmod: 2022-06-24T16:44:33-04:00
 featured: false
 draft: false
