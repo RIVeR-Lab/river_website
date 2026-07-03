@@ -54,3 +54,8 @@
 ## Github Workflow
 
 ## HTTPS/Firewall configuration
+
+## From server's pc
+hugo
+sudo cp -r static/* /var/www/static/
+sudo cp -r public/* /var/www/public/

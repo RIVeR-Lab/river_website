@@ -51,6 +51,6 @@ user_groups:
 
 ## Biography
 
-Sarvesh Prajapati is a second-year Masters Student in Robotics program at Northeastern University. His research interests are robot perception, machine learning, control and optimization. His current research focuses on online cost-based collision-free motion planning for underactuated robots and deep reinforcement learning for trajectory optimization.
+Sarvesh Prajapati is a first-year PhD student. His research interests are robot perception, machine learning, control and optimization. His current research focuses on online cost-based collision-free motion planning for underactuated robots and deep reinforcement learning for trajectory optimization.
 
 Fun fact: Sarvesh self-trained himself to fly B737.
