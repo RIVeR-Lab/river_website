@@ -1,0 +1,23 @@
+{{- define "main" -}}
+
+{{ partial "page_header.html" . }}
+
+<div class="universal-wrapper">
+  {{ with .Content }}
+    <div class="article-style">{{ . }}</div>
+  {{ end }}
+
+  {{/* Group publications by year, newest first. Overrides the theme's flat,
+       paginated list in _default/list.html. */}}
+  {{ range $group := .Pages.GroupByDate "2006" }}
+    {{/* Hugo groups pages with no date under year "0001". */}}
+    <h2 class="mt-5 mb-3 pub-year-heading">
+      {{- if eq (printf "%v" $group.Key) "0001" }}Undated{{ else }}{{ $group.Key }}{{ end -}}
+    </h2>
+    {{ range $index, $item := $group.Pages }}
+      {{ partial "functions/render_view" (dict "page" $ "item" $item "view" ($.Params.view | default "compact") "index" $index) }}
+    {{ end }}
+  {{ end }}
+</div>
+
+{{- end -}}
