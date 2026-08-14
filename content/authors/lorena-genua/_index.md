@@ -17,7 +17,7 @@ organizations:
 
 education:
   courses:
-    - course: PhD - Electrical and Computer Engineering
+    - course: PhD - Computer Engineering
       institution: Northeastern University
     - course: M.S. - Robotics Engineering
       institution: Worcester Polytechnic Institute

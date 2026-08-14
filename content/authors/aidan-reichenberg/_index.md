@@ -17,7 +17,9 @@ organizations:
 
 education:
   courses:
-    - course: B.S. in Computer Engineering with a Concentration in Robotics
+    - course: PhD - Computer Engineering
+      institution: Northeastern University
+    - course: B.S. - Computer Engineering with a Concentration in Robotics
       institution: University of Dayton
 
 # Highlight the author in author lists? (true/false)
